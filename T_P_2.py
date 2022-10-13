@@ -1,5 +1,8 @@
 """TP2
-Caleb Friedman Groupe 402"""
+Caleb Friedman 402"""
+
+
+
 import random
 keep_playing = str(input('voulez-vous jouer un jeu de devinette(encore)? o/n '))
 minimum = int(input('choisisez un nombre minimal '))
